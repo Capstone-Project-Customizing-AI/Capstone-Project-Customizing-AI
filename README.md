@@ -31,6 +31,21 @@ This app is a chatbot web application, that's powered by Google's Gemini AI. Ins
 
 ![Prompt: Stable Diffusion](3placeholder_screenshot_capstone_bot.png)
 
+## Directory Tree
+```
+Capstone-Project-Customizing-AI/
+│   ├── .gitignore
+│   ├── README.md
+│   ├── backend/
+│   │   ├── main.py
+│   │   ├── requirements.txt
+│   ├── frontend/
+│   │   ├── index.html
+│   │   ├── vite.config.js  
+│   │   ├── src/
+│   │   │   ├── App.jsx
+│   │   │   ├── main.jsx
+```
 ---
 
 ## Architecture Overview
