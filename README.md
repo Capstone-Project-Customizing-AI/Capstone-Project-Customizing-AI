@@ -1,4 +1,4 @@
-# Multi-Prompt Gemini Chatbot
+# Multiple-System-Prompt-Chatbot
 
 A lightweight web application demonstrating how Large Language Models (LLMs) can dynamically change their behavior, tone, and utility using system prompts. 
 
